@@ -19,7 +19,7 @@ padding: 0px;
       background-color: white;
       opacity: 0;
       transform: translateY(-50px);
-      animation: fadeInUp 1s ease forwards;
+      animation: fadeInUp 2s ease forwards;
     }
     
     .container2 img {
@@ -34,6 +34,7 @@ padding: 0px;
       margin-top: 20px;
       color: #32394d;
       font-size: 30px;
+      font-weight: bold;
     }
     
     .container2 p {
