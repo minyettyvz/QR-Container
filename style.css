@@ -59,12 +59,27 @@ padding: 0px;
 
 @media (max-width: 375px) {
 .container2 {
-      width: 100%;
+      width: 90%;
 }
   
 .container2 img {
-      width: 100%;
+      width: 90%;
 }
+
+.container2 h2 {
+      font-size: 25px;
+    }
+
+.container2 p {
+      font-family: 'Roboto', sans-serif;
+      text-align: center;
+      margin-top: 20px;
+      color: #9c9696;
+      margin-bottom: 40px;
+      font-size: 18px;
+    }
+
+
 }
    
 
